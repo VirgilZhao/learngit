@@ -3,3 +3,4 @@ this is second line.
 this is thrid line.
 this is forth line.
 this is a new line in dev branch.
+this is a new line in master.
