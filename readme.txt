@@ -5,3 +5,4 @@ this is forth line.
 this is a new line in dev branch.
 this is a new line in master.
 this is a new line in dev branch too.
+this line number is 8.
